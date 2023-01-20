@@ -9,5 +9,9 @@
 8. A- Perfect Permutation : [Codeforces Round #144 (Div. 2)](https://codeforces.com/problemset/problem/233/A)
 9. C- Swap Game : [Codeforces Round #832 (Div. 2)](https://codeforces.com/problemset/problem/1747/C)
 10. C- Train and Queries : [Codeforces Round #805 (Div. 3)](https://codeforces.com/contest/1702/problem/C)
-11.
+11. A- Mark the Photographer : [Codeforces Round #807 (Div. 2)](https://codeforces.com/contest/1705/problem/A)
+12. C- Mark and His Unfinished Essay : [Codeforces Round #807 (Div. 2)](https://codeforces.com/contest/1705/problem/C)
+13. C- Qpwoeirut And The City : [Codeforces Round #809 (Div. 2)](https://codeforces.com/contest/1706/problem/C)
+
+## You can view all my submissions at [Muhammed Submissions](https://codeforces.com/submissions/Muhammed_EmadEldeen)
 

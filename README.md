@@ -8,4 +8,6 @@
 7. B- Also Try Minecraft : [Educational Codeforces Round 132 (Rated for Div. 2)](https://codeforces.com/problemset/problem/1709/B)
 8. A- Perfect Permutation : [Codeforces Round #144 (Div. 2)](https://codeforces.com/problemset/problem/233/A)
 9. C- Swap Game : [Codeforces Round #832 (Div. 2)](https://codeforces.com/problemset/problem/1747/C)
+10. C- Train and Queries : [Codeforces Round #805 (Div. 3)](https://codeforces.com/contest/1702/problem/C)
+11.
 
